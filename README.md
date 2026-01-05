@@ -42,7 +42,7 @@ Jupyter Notebook — interactive analysis
 
 Git & GitHub — version control
 
-🔧 Data Preparation & Feature Engineering
+Data Preparation & Feature Engineering
 
 Key preprocessing steps included:
 
@@ -69,7 +69,7 @@ Sales values are highly right-skewed
 
 Most transactions are low-value, while a few large orders dominate revenue
 
-2️. Impact of Discounts on Profitability
+2. Impact of Discounts on Profitability
 
 Orders with discounts up to 20% remain profitable on average
 
@@ -79,7 +79,7 @@ Discounts above 40% are both frequent and highly loss-making
 
 Insight: Aggressive discounting erodes profit margins and poses significant financial risk.
 
-3️. Shipping Speed, Cost, and Profitability
+3. Shipping Speed, Cost, and Profitability
 
 Same-day and next-day deliveries incur the highest shipping costs
 
@@ -89,7 +89,7 @@ Faster delivery does not guarantee higher profitability
 
 Insight: Optimizing delivery speed is more effective than maximizing speed.
 
-4️. High-Sales but Loss-Making Products
+4. High-Sales but Loss-Making Products
 
 Several products generate high total sales but negative total profit
 
