@@ -110,13 +110,21 @@ Certain products require repricing, discount caps, or logistics optimization
 Data-driven policy changes can significantly improve margins
 
 
- Next Steps
+ Regression Analysis
 
-Build a regression model to predict profit or sales
+A linear regression model was used to analyze factors associated with profit in the
+Global Superstore dataset. The model was evaluated on a held-out test set and achieved
+modest predictive performance (R² ≈ 0.13), reflecting the inherently noisy nature of
+retail profit data.
 
-Perform customer segmentation using clustering
+Despite limited predictive power, coefficient analysis revealed clear business insights.
+Discounts and shipping costs showed strong negative associations with profit, while sales
+had only a modest positive effect. Higher order quantities were also associated with lower
+profit, suggesting that bulk purchasing and aggressive discounting reduce margins.
 
-Extend analysis to time-series forecasting
+These results highlight the importance of cost control and pricing strategy over sales
+volume alone in driving profitability.
+
 
 
  Author
